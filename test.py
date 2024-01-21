@@ -6,3 +6,4 @@
 this is multiple line comment
 '''
 
+print(1/2);
